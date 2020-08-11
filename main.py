@@ -1,7 +1,7 @@
 
 import first_test
 import second_test
-import thirst_test
+import third_test
 print()
 print("Hello! Welcome to the tests!") 
 print()
@@ -96,4 +96,4 @@ elif choose_test == "2":
 elif choose_test == "3":
   print(" This is a personality test, it will help you understand whether introvert or extravert you are. Begin each statement with “I….” ")
   print()
-  run_testД(thirst_test.test())
+  run_testД(third_test.test())
